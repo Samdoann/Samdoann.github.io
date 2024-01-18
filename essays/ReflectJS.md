@@ -23,4 +23,4 @@ In class while learning JavaScript we also did a practice WOD (workout of the da
 
 ## Final Thoughts
 
-I'm excited to see how JavaScript will be implemented in future projects or lessons. So far I really do enjoy this learning style, and how the class is formatted. 
+I'm excited to see how JavaScript will be implemented in future projects or lessons. I've heard a lot about what JavaScript can do, but now I can finally see for myself. So far I really do enjoy this learning style, and how the class is formatted. Specifically how interactive this class can be, it seems like that's the best way for me personally to have a lot of interest in the class. The more we're expected to talk or collaborate the more prepared we should be heading into class. The last thing I want to say is that I really like the no phone rule to keep us focused in class, as I've been trying to do this a lot more at home.
