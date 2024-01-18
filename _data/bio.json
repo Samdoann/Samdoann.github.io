@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "samdoan@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-464-2312",
     "website": "https://Samdoann.github.io",
     "summary": "I am studying for a B.S. in Computer Science in Security Science at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -16,16 +16,16 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Network Security" },
+    { "name": "Cloud Computing" },
+    { "name": "Sports" },
+    { "name": "The Beach" }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
