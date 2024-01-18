@@ -21,6 +21,6 @@ I like how JavaScript was taught because each question provided a little bit of 
 
 In class while learning JavaScript we also did a practice WOD (workout of the day), I agree that these WODs are necessary to see how you can perform under pressure. So far I haven't completed any in the first try, but hopfullly as this semester goes on I will be able to be more efficient at writing and figuring out a good algorithm in the expected time frame. 
 
-##Final Thoughts
+## Final Thoughts
 
 I'm excited to see how JavaScript will be implemented in future projects or lessons. So far I really do enjoy this learning style, and how the class is formatted. 
