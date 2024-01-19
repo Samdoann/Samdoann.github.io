@@ -6,8 +6,8 @@ title: "A Safe Space"
 date: 2020-2022
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Discord
+ 
 summary: "How me and my friends have used the same discord server since 2016"
 ---
 
