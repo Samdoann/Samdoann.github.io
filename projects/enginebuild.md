@@ -6,8 +6,8 @@ title: "An Intimidating First Project"
 date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Engine
+  - Teamwork
 summary: "A group project to take out and rebuild an engine."
 ---
 
