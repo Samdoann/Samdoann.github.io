@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hawaiicc.jpg
+image: img/enginebay.jpg
 title: "Cotton"
 date: 2014
 published: true
