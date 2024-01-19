@@ -11,7 +11,7 @@ labels:
 summary: "I learned how to operate with my dad."
 ---
 
-<img class="img-fluid" src="../img/hawaiiccnew.jpg">
+<img class="img-fluid" src="../img/insidehouseframe.JPG">
 
 We've all heard the joke of holding the flashlight for your dad, just for him to yell or complain to you for doing it wrong. Well, this is my experience when it came to working with my just my dad to build houses in the Puna district of Hawaii. My dad insisted I work with him to build these houses
 so that I could make extra money while learning life skills that I could use in the future. Me and my dad doesn't have the best patience with each other so there was a lot of yelling back and forth, especially when it came to being in the right spot, as a lot of heavy building material was carried just by us or by me
