@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tools.png
+image: img/discordimage.png
 title: "A Safe Space"
 date: 2020-2022
 published: true
