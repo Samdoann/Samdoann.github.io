@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/enginebay.jpg
+image: img/tools.png
 title: "Building Homes With My Dad"
 date: 2020-2022
 published: true
