@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/enginebay.jpg
+image: img/
 title: "Engine Rebuild"
 date: 2020
 published: true
