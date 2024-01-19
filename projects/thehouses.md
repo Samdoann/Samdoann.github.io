@@ -6,8 +6,8 @@ title: "Building Homes With My Dad"
 date: 2020-2022
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Patience
+  - Perseverance
 summary: "I learned how to operate with my dad."
 ---
 
