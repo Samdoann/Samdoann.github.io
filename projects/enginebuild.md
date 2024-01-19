@@ -8,7 +8,7 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A group project to take out and reassemble an engine to put it back in."
+summary: "A group project to take out and rebuild an engine."
 ---
 
 <img class="img-fluid" src="../img/hawaiiccnew.jpg">
