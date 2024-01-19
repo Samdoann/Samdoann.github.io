@@ -11,5 +11,5 @@ labels:
 summary: "A group project to take out and reassemble an engine to put it back in."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/hawaiicc.jpg">
 
