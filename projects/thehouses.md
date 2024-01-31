@@ -18,4 +18,4 @@ so that I could make extra money while learning life skills that I could use in 
 guiding him while he uses a machine.
 
 These days of working with my dad tested my patience a lot, but at the end of the day, I just had to suck it up and do the job as it's not going to complete itself. I've learned how to control what I can control and let him control what he can control. I believe this is an important lesson because we all need to understand
-that not everyone is on the same level as us. Some will have more others will have less, we need to adjust to specific conditions to make the best of each situation.
+that not everyone is on the same level as us. Some will have more others will have less, we need to adjust to specific conditions to make the best of each situation. I feel like this can be related to computer programming because you need to make sure that your foundation is right or you'll run into errors or problems later on into your journey. 
