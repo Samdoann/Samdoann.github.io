@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What I hope to learn"
+title: "Design Patterns?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -9,19 +9,13 @@ labels:
   - Computer Science
 ---
 
-## A little about me
+Coding tasks and problems are frequently very diverse from one another, but they are also similar. Although the goal and substance may vary, most coding errors and problems have a lot in common. As such, it's likely that you will encounter problems that you have encountered before. Or maybe when you encounter the issue a second time, you have already discovered a better approach and have begun utilizing it. The core of design patterns is precisely this type of issue solving. It's almost like having the answer to a problem figured out before you run across it—a kind of recipe for fixing these common issues.
 
-I've  been fortunate enough to learn many unique skills in life, like how to fix a car, how to build a house, and how to farm. Now I'm on a journey to get a BS degree in Computer Science. This has been the most difficult thing I've had to do so far, but as I go along it shows to be worth the frustration and time.
-I'm at a point in my degree where I might be able to start to see what Computer Science is really about. With the previous skills that I learned, I hope to incorporate them into what I'm learning now. I have an interest in cybersecurity with the field being my main focus right now.
+More specifically, there are three distinct sorts of design patterns according to the gang-of-four: behavioral, structural, and creational. Different design patterns, such as the Factory or Singleton design patterns, are included in each of these areas. Each of these design patterns aids in resolving possible issues that might develop if they weren't used. For instance, to prevent potential data overwriting that could result in problems, the singleton design pattern guarantees that an object exists in a single instance and provides a global access point to the instance. As you can see, these design patterns are a kind of preventative approach to make sure there are no issues rather than just remedies.
 
-## Expectations
+Now, returning to my code and design patterns. Which of these code design patterns have I used? After going through the design patterns, I have to admit that I had never even considered using a number of them. Although I am aware of how to utilize it and its possible benefits, I have never heard of it as a means of maybe averting problems in the future. Maybe because the programs I have created up to this point have been so simple, but I haven't even employed basic design patterns like singletons. But now that I'm aware of these ideas, there's no reason I shouldn't begin utilizing these design patterns. 
 
-Going into this class of software engineering the main thing I hope to learn is how to build my website and make it functionable. I've never been a part of any big coding projects or have made anything I found interesting. I want to be able to develop something I can proudly show to my friends and family. 
-Maybe it could be a website that could be used for their benefit. Group projects might be a little scary to me because I don't like to let other people down, I know a lot of people in this class are more experienced than me, but I hope to have a lot of fun. I also would like to learn how I can use Software Engineering 
-in the cybersecurity space. Well, I guess if you understand how a website is built then you understand what you can do to protect it, that's just a guess for now. 
 
-This class seems to be very promising for my future and I want to make the most out of it. I want to start making friends or connections with other students so we can help each other in the future. I know this class won't be easy as it's been stated multiple times, but I know I'll be giving it my best because if not why 
-am I still here.
 
 
 
