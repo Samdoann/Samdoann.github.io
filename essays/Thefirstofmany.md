@@ -8,6 +8,7 @@ published: true
 labels:
   - Computer Science
 ---
+<img class="img-fluid" src="../img/learn.jpg" width="500">
 
   As a Computer Science major learning being told to learn a new language of code shouldn't come as a shock. So as a class we're told to learn JavaScript, I've heard of JavaScript before from my friends and classmates, so I knew I had to learn at some point. 
 One of the main things I've heard is that it's very similar to Java more like an updated version of it. Since I've heard a little of what JavaScript is like I was very excited to see how it compares to Java. Keep in mind I only learned two languages before JavaScript

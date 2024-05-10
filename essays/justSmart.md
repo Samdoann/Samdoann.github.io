@@ -4,7 +4,7 @@ type: essay
 title: "Just be SMART"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: true
+published: false
 labels:
   - Computer Science
 ---
